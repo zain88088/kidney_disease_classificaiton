@@ -26,7 +26,7 @@ list_of_files = [
 ]
 
 # Optional: Replace {project_name} with an actual project name
-project_name = "kidney_disease_classification"
+project_name = "cnnClassifier"
 list_of_files = [filepath.replace("{project_name}", project_name) for filepath in list_of_files]
 
 # Loop over each file path in the list and create directories and files as needed
